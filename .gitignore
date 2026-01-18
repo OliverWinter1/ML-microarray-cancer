@@ -1,0 +1,14 @@
+# Ignore downloaded datasets
+data/
+notebooks/data/
+*.gz
+*.zip
+*.tar
+
+# Jupyter / Python junk
+.ipynb_checkpoints/
+__pycache__/
+
+# Virtual environments
+.venv/
+.env
